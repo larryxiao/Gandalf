@@ -1,14 +1,15 @@
 {
   "name": "Gandalf",
   "main": "./lib/gandalf",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Gandalf has it",
-  "activationEvents": ["Gandalf:insert-date"],
+  "activationEvents": [
+    "Gandalf:insert-date"
+  ],
   "repository": "https://github.com/larryxiao/gandalf",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
