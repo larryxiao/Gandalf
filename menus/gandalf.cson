@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable gandalf': 'gandalf:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'gandalf'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'gandalf:toggle' }
+      ]
+    ]
+  }
+]
