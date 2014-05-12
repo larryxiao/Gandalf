@@ -1,7 +1,7 @@
 {
   "name": "Gandalf",
   "main": "./lib/gandalf",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Gandalf has it",
   "activationEvents": [
     "Gandalf:insert-date"
