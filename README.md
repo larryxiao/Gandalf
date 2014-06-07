@@ -1,7 +1,8 @@
 # Gandalf has it.
 
-*  This package contains simple helpers.
-*  New ideas are very welcome!
+*  This is a package for [Atom](https://atom.io/)(the editor)
+*  Aim to provide simple helpers, for some work routines.
+*  Ideas and collaboration are very welcome!
 
 ### Helpers
 1.  Insert Date:
